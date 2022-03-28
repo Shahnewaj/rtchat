@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091047888246",
+    "project_id": "rtchat-7f7a0",
+    "storage_bucket": "rtchat-7f7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091047888246:android:78c41d17568cd218221657",
+        "android_client_info": {
+          "package_name": "com.rtchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091047888246-7n258cvj4bl4par84913i5bt8dq968fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rtchat",
+            "certificate_hash": "079695245ee7386b416a4c3441e96d00b55901cf"
+          }
+        },
+        {
+          "client_id": "1091047888246-fsaq7qd5r43hh4acna8ir2s8c79ljgtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzeE-pLmnFHiFxtXlGVrqIUHBIVQQWyTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091047888246-fsaq7qd5r43hh4acna8ir2s8c79ljgtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

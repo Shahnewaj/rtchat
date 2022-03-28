@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">rtchat</string>
+    <string name="facebook_app_id">496228965547329</string>
+    <string name="fb_login_protocol_scheme">fb496228965547329</string>
+    <string name="facebook_client_token">9771e062c23a8ec5c7df9c2b9ad67477</string>
+</resources>
